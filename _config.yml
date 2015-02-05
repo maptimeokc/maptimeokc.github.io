@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: 
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
-github_org: maptime
+repo: maptimeokc.github.io
+github_org: maptimeokc
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: Maptime OKC
+  twitter: maptimeokc
   #disqus: YOUR DISQUS USERNAME
