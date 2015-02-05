@@ -1,4 +1,4 @@
-baseurl: 
+baseurl:
 permalink: pretty
 markdown: kramdown
 paginate: 5
@@ -7,4 +7,3 @@ github_org: maptimeokc
 maptime:
   chapter: Maptime OKC
   twitter: maptimeokc
-  #disqus: YOUR DISQUS USERNAME
