@@ -18,8 +18,8 @@ Parking is going to be a bit of a challenge (we're talking about Bricktown, righ
 
 _Update:_ Additional resources
 
-Here are the Intro to Maptime slides: http://maptimeokc.github.io/maptimeokc-intro
+Here are the Intro to Maptime slides: [http://maptimeokc.github.io/maptimeokc-intro](http://maptimeokc.github.io/maptimeokc-intro)
 
-Here are the Intro to OSM slides: http://maptimeokc.github.io/osm-intro
+Here are the Intro to OSM slides: [http://maptimeokc.github.io/osm-intro](http://maptimeokc.github.io/osm-intro)
 
 <iframe width='100%' height='256px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/jvrousseau.l4okdegc/attribution,zoompan.html?access_token=pk.eyJ1IjoianZyb3Vzc2VhdSIsImEiOiJYYUNlcVRZIn0.lp0867Jn5ynlj72kMwICSA#16/35.4642/-97.5093'></iframe>
