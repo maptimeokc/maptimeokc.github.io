@@ -6,7 +6,7 @@ author: Luke Simkins
 rsvp: http://www.meetup.com/Maptime-OKC/events/223335817/
 ---
 
-#June 30 @ 12PM
+#June 29 @ 12PM
 
 ####Prototek in Downtown OKC
 *401 NW 10th St, Oklahoma City, OK*
