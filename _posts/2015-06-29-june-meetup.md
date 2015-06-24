@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: May Maptime Meetup!
+title: June Maptime Meetup!
 author: Luke Simkins
 rsvp: http://www.meetup.com/Maptime-OKC/events/223335817/
 ---
