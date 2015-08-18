@@ -11,7 +11,7 @@ rsvp: http://www.meetup.com/Maptime-OKC/events/223335817/
 ####Prototek in Downtown OKC
 *401 NW 10th St, Oklahoma City, OK*
 
-This month, Luke Simkins will be giving a presentation titled: 
+This month, Luke Simkins will be giving a presentation titled:
 
 ## AN INTRODUCTION TO WEB VISUALIZATION
 
@@ -21,4 +21,4 @@ Maps are great at allowing quick interpretation of large amounts of information.
 
 See you there!
 
-<iframe width='100%' height='256px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/flippmoke.m68hpfb7/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiZmxpcHBtb2tlIiwiYSI6ImFESEYwY2MifQ.aZ12yMKEt5oGkvRLNnAIUw'></iframe>
+<iframe width='100%' height='256px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/flippmoke.m68hpfb7/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoiZmxpcHBtb2tlIiwiYSI6ImFESEYwY2MifQ.aZ12yMKEt5oGkvRLNnAIUw'></iframe>
